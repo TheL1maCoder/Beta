@@ -1,0 +1,1 @@
+print('Warning! Beta can contain it alphas of new versions, but it is recommended to start official version. Alphas can contain wrong code and break something in your system. Start alphas at your own risk.')
